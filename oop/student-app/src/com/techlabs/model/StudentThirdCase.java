@@ -1,5 +1,6 @@
 package com.techlabs.model;
 
+//change model class and and separate TestClass for each case
 public class StudentThirdCase {
 	
 	private String name;
